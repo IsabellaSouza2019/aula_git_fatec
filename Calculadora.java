@@ -15,6 +15,7 @@ public class Calculadora{
         else{
             res = a - b;
         }
+        //exibindo resultado
         JOptionPane.showMessageDialog(null, "O resultado é: " + res);
     }
 }
